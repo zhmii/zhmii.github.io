@@ -1,5 +1,5 @@
 title: "Personal Hobbies"
-author: "M"
+author: "Mi"
 description: "A collection of my interests!"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto: "}
-  - {title: Github, icon: github, url: " "}
-  - {title: Subscribe, icon: rss, url: " "}
+  - {title: Mail, icon: envelope, url: "https://pomofocus.io/"}
+  - {title: Github, icon: github, url: "https://pomofocus.io/"}
+  - {title: Subscribe, icon: rss, url: "https://pomofocus.io/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
